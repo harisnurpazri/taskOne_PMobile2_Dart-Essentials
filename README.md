@@ -181,5 +181,5 @@ IPK Harapan       : 2.86
 ## 🧑‍💻 Penulis
 **Nama:** Haris Nurpazri  
 **Mata Kuliah:** Pemrograman Mobile 2  
-**Dosen Pengampu:** *(isi sesuai dosen)*  
-**Semester:** *(isi sesuai semester aktif)*  
+**Dosen Pengampu:** Bapak Muhammad Ikhwan Fathulloh, S.Kom  
+**Semester:** 4 (Empat)  
